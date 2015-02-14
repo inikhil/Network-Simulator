@@ -1,0 +1,16 @@
+Compiling and Executing the Code
+
+Follow NS-3's instructions to compile and execute the scripts. These
+instructions are given in their tutorial. Our executables are named
+Q1, Q1-Extra, Q2 and Q3.
+
+
+For Question 1, the pcap traces will be stored as Question1*.pcap, which can
+be opened in Wireshark for better viewing. The Q1-Extra executable contains
+an added server and client instance to the nodes respectively. We also provide
+command line arguments like "--latency=1" to set the latency to 1ms.
+
+For Question 2, we show the packet loss percentage vs. time in a file called
+Question2-loss.txt, along with the pcap traces.
+
+For Question 3, we only show the pcap traces.
